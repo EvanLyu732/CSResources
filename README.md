@@ -1,2 +1,86 @@
 # CSResources
 Useful Resources for being a better programmer.
+
+### Personal Blog
+- [Coding Horror](https://blog.codinghorror.com/)
+- [Joel on Software](https://www.joelonsoftware.com/)
+- [Martin Fowler](https://martinfowler.com/)
+- [Paul Graham Essays](http://www.paulgraham.com/articles.html)
+- [Steve Yegge ](https://medium.com/@steve.yegge)
+- [Bruce Eckel’s Programming Blog](https://www.artima.com/weblogs/index.jsp?blogger=beckel)
+- [Herb Sutter](https://herbsutter.com/)
+- [Eli Bendersky's website](https://eli.thegreenplace.net/)
+- [Peter Krumins’ blog](http://www.catonmat.net/)
+- [Brendan D. Gregg](http://www.brendangregg.com/index.html)
+- [Evan Klitzke](https://eklitzke.org/)
+- [Julia Evans](https://jvns.ca/)
+- [null program](http://nullprogram.com/)
+- [Fluent {C++}](http://www.fluentcpp.com/)
+- [Preshing on Programming](http://preshing.com/)
+- [Programming is Terrible](https://programmingisterrible.com/)
+- [Accidentally Quadratic](https://accidentallyquadratic.tumblr.com/)
+- [Hacker Noon](https://hackernoon.com/)
+
+### Company Blog
+- [Airbnb Engineering](http://nerds.airbnb.com/)
+- AWS
+  - [All Things Distributed](https://www.allthingsdistributed.com/)
+  - [AWS Architecture Blog](https://aws.amazon.com/cn/blogs/architecture/)
+  - [On Efficiency, Reliability, Scaling - James Hamilton, VP at AWS](http://mvdirona.com/jrh/work/)
+- [Bandcamp Tech](http://bandcamptech.wordpress.com/)
+- [BankSimple Simple Blog](https://www.simple.com/engineering/)
+- [Bitly Engineering Blog](http://word.bitly.com/)
+- [Cloudera Developer Blog](http://blog.cloudera.com/blog/)
+- [Dropbox Tech Blog](https://tech.dropbox.com/)
+- [Etsy Code as Craft](http://codeascraft.com/)
+- [Facebook Engineering](https://www.facebook.com/Engineering)
+- [Flickr Code](http://code.flickr.net/)
+- [Foursquare Engineering Blog](http://engineering.foursquare.com/)
+- [Google Research Blog](https://ai.googleblog.com/)
+- [High Scalability](http://highscalability.com/)
+- [Instagram Engineering](http://instagram-engineering.tumblr.com/)
+- [LinkedIn Engineering](http://engineering.linkedin.com/blog)
+- [Oyster Tech Blog](http://tech.oyster.com/)
+- [Pinterest Engineering Blog](http://engineering.pinterest.com/)
+- [Quora Engineering](http://engineering.quora.com/)
+- [Songkick Technology Blog](http://devblog.songkick.com/)
+- [SoundCloud Backstage Blog](https://developers.soundcloud.com/blog/)
+- [Square The Corner](http://corner.squareup.com/)
+- [The Reddit Blog](http://www.redditblog.com/)
+- [The GitHub Blog](https://github.com/blog/category/engineering)
+- [The Netflix Tech Blog](http://techblog.netflix.com/)
+- [Twilio Engineering Blog](http://www.twilio.com/engineering)
+- [Twitter Engineering](https://blog.twitter.com/engineering/en_us.html)
+- [WebEngage Engineering Blog](http://engineering.webengage.com/)
+- [Yammer Engineering](http://eng.yammer.com/blog/)
+- [Yelp Engineering Blog](https://engineeringblog.yelp.com/)
+- [Smarkets Blog](https://smarketshq.com/)
+
+
+### Paper Resources
+**How to Read Paper?**
+- [How to read an academic article](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
+- [Advice on reading academic papers](https://www.cc.gatech.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
+- [How to read and understand a scientific paper](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
+- [Should I Read Papers?](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
+- [The Refreshingly Rewarding Realm of Research Papers](https://www.youtube.com/watch?v=8eRx5Wo3xYA) 
+
+
+**Paper Resources List**
+- [2 Minute Papers](https://www.youtube.com/user/keeroyz)
+- [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
+- [Google Scholar](http://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng)
+- [Facebook](https://research.fb.com/publications/)
+- [Research at Google](https://research.google.com/pubs/papers.html)
+- [Microsoft Research](http://research.microsoft.com/apps/catalog/default.aspx?t=publications)
+- [MIT’s Artificial Intelligence Lab Publications](http://dspace.mit.edu/handle/1721.1/39813)
+- [MIT’s Distributed System’s Reading Group](http://dsrg.pdos.csail.mit.edu/)
+- [arXiv Paper Repository](http://arxiv.org/)
+- [SciRate](https://scirate.com/)
+- [cat-v.org](http://doc.cat-v.org/)
+- [Usenix: Best Papers](https://www.usenix.org/conferences/best-papers)
+- [The Morning Paper](https://blog.acolyer.org/)
+- [Lobste.rs tagged as PDF](https://lobste.rs/t/pdf)
+- [Papers We Love](https://github.com/papers-we-love/papers-we-love)
+
+
